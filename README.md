@@ -133,7 +133,17 @@ streamlit run app.py
     </ul>
 </div>
 
+<div class="section">
+    <h2>Streamlit Application</h2>
 
+
+
+https://github.com/user-attachments/assets/ae3e2d12-1657-4ad5-9b12-c7af03fa29de
+
+
+
+    
+</div>
 
 
 <div class="section">
