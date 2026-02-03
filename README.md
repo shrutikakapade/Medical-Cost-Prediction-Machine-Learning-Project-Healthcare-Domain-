@@ -146,11 +146,17 @@ https://github.com/user-attachments/assets/ae3e2d12-1657-4ad5-9b12-c7af03fa29de
 </div>
 
 
-<div class="section">
-    <h2>👩‍💻 Author</h2>
-    <p><strong>Shrutika Kapade</strong><br>
-    B.Tech in Data Science | ML & AI Enthusiast | Innomatics Intern</p>
-</div>
+<p>
+  Gain a crystal-clear understanding of the <strong>Machine Learning pipeline</strong>—from data ingestion to model deployment—by reading this well-structured and insightful blog.
+  It breaks down complex concepts into practical, easy-to-follow steps, making it a must-read for anyone serious about building real-world ML systems.
+</p>
+
+<p>
+  👉 <a href="https://medium.com/@shrutikakkapade21/decoding-the-ml-pipeline-a-practical-framework-for-building-smarter-models-25da38de1f88" style="color:#2563eb; font-weight:600; text-decoration:none;">
+    Read the complete blog on the Machine Learning Pipeline
+  </a>
+</p>
+
 
 <div class="footer">
     ⭐ If you like this project, don't forget to star the repository!
